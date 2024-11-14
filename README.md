@@ -1,1 +1,1 @@
-Tool to chart stock's volatility vs. volatility of volatility
+Tools I built for trading
